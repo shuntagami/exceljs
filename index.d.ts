@@ -18,6 +18,7 @@ export declare enum DocumentType {
 export const enum PaperSize {
 	Legal = 5,
 	Executive = 7,
+	A3 = 8,
 	A4 = 9,
 	A5 = 11,
 	B5 = 13,
